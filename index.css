@@ -1,6 +1,7 @@
 body {
      background-image: url(céu.jpeg);
      background-size: cover;
+     background-color: black;
 }
 h1 {
     color: rgb(97, 39, 245);
