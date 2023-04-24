@@ -1,0 +1,34 @@
+body {
+    
+     background-image: url(ceu.jpeg);
+     background-size: cover;
+     background-color: black; 
+}
+h1 {
+    color: rgb(191, 32, 32);
+    text-align: center;
+    font-size: 50px;
+    font-family: "Press Start 2P"
+    
+
+}
+img {
+    height: 300px;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+p{
+    color: rgb(185, 46, 0);
+    text-align: center;
+    font-size: 25px;
+    font-family: "Press Start 2P"
+    
+
+}
+.p2{
+    color: rgb(119, 199, 33);
+    text-align: center;
+    font-size: 25px;
+    font-family: "Press Start 2P"
+}
